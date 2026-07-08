@@ -15,7 +15,7 @@ This project uses Optical Character Recognition (OCR) to scrape endgame victory 
   * Top Winning Equipment/Components (Pickrate %)
   * Global Game Turn Pacing (Speedrun vs. Stall)
   * Top Priority Purchases & Upgrades
-* **The "Trash Tier" Report:** Automatically compares the winning data against the game's master spell/item lists to name-and-shame the exact items and spells that have a **0% win representation**.
+* **The "0%" Report:** Automatically compares the winning data against the game's master spell/item lists to name-and-shame the exact items and spells that have a **0% win representation**.
 * **Discord Markdown Generator:** Instantly builds a formatted, emoji-rich summary of the dataset that can be copy-pasted directly into Discord.
 
 ---
